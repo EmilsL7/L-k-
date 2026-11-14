@@ -1,0 +1,23 @@
+[gd_scene format=3 uid="uid://cf3nbrf08af0x"]
+
+[ext_resource type="Texture2D" uid="uid://b3upug1hqtypj" path="res://icon.svg" id="1_4flbx"]
+[ext_resource type="Script" uid="uid://otsi1sgapggu" path="res://player.gd" id="1_onrkg"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_3pxim"]
+size = Vector2(80, 80)
+
+[node name="player" type="CharacterBody2D" unique_id=82134108]
+position = Vector2(648, 280)
+script = ExtResource("1_onrkg")
+
+[node name="Icon" type="Sprite2D" parent="." unique_id=1649591943]
+position = Vector2(0, 3.8146973e-06)
+scale = Vector2(0.625, 0.625)
+texture = ExtResource("1_4flbx")
+
+[node name="spēlētāja hitbox" type="CollisionShape2D" parent="." unique_id=574667863]
+shape = SubResource("RectangleShape2D_3pxim")
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=1877476029]
+position_smoothing_enabled = true
+position_smoothing_speed = 50.0
