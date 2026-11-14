@@ -136,6 +136,8 @@ texture = ExtResource("1_wtcfe")
 physics_layer_0/collision_layer = 1
 sources/0 = SubResource("TileSetAtlasSource_0e48y")
 
+[sub_resource type="LabelSettings" id="LabelSettings_3pxim"]
+
 [node name="galvenā spēle" type="Node2D" unique_id=45954168]
 
 [node name="player" parent="." unique_id=82134108 instance=ExtResource("1_0e48y")]
@@ -149,3 +151,14 @@ tile_set = SubResource("TileSet_3pxim")
 position = Vector2(1980, 139.5)
 scale = Vector2(0.244898, 0.56857145)
 texture = ExtResource("3_epypp")
+
+[node name="Label" type="Label" parent="." unique_id=298144472]
+offset_left = 152.0
+offset_top = -48.0
+offset_right = 296.0
+offset_bottom = 53.0
+text = "Kustība - A-D
+Lekšana - Atstarpe
+Saspiešna - S
+Izplešanās - W"
+label_settings = SubResource("LabelSettings_3pxim")
