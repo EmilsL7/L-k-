@@ -19,5 +19,16 @@ texture = ExtResource("1_4flbx")
 shape = SubResource("RectangleShape2D_3pxim")
 
 [node name="Camera2D" type="Camera2D" parent="." unique_id=1877476029]
+limit_smoothed = true
 position_smoothing_enabled = true
 position_smoothing_speed = 50.0
+drag_horizontal_enabled = true
+
+[node name="RayCast2D" type="RayCast2D" parent="." unique_id=110441167]
+position = Vector2(-48, 0)
+target_position = Vector2(-56, 0)
+collision_mask = 3
+
+[node name="RayCast2D2" type="RayCast2D" parent="." unique_id=442793799]
+position = Vector2(48, 0)
+target_position = Vector2(48, 0)
