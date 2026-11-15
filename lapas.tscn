@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://b1eer2p4qm76a"]
+
+[ext_resource type="Texture2D" uid="uid://c5gwo8mqsqgh0" path="res://spelei/augi/augi-1.png.png" id="1_ixppl"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_3pxim"]
+size = Vector2(109, 586)
+
+[node name="lapas" type="CollisionShape2D" unique_id=1042061243]
+position = Vector2(48.5, 293)
+shape = SubResource("RectangleShape2D_3pxim")
+one_way_collision = true
+
+[node name="Augi1_png" type="Sprite2D" parent="." unique_id=1552509472]
+position = Vector2(-3.5, 4.7683716e-07)
+scale = Vector2(5.4374995, 20.21875)
+texture = ExtResource("1_ixppl")

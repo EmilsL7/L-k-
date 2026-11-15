@@ -1,0 +1,78 @@
+[gd_scene format=3 uid="uid://vt0mkseq0kos"]
+
+[ext_resource type="Script" uid="uid://cyh3vr0oxgc74" path="res://varde.gd" id="1_i5gqn"]
+[ext_resource type="Texture2D" uid="uid://bujlgpukkcmgi" path="res://spritesheet.png" id="2_2o4oj"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_3pxim"]
+size = Vector2(64, 40)
+
+[sub_resource type="Animation" id="Animation_p7eoe"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": [5]
+}
+
+[sub_resource type="Animation" id="Animation_uaojm"]
+resource_name = "pa kreisi"
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.2, 0.4, 0.56666666, 0.73333335),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1),
+"update": 1,
+"values": [5, 7, 9, 7, 5]
+}
+
+[sub_resource type="Animation" id="Animation_arllu"]
+resource_name = "pa labi"
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.16666667, 0.33333334, 0.53333336, 0.6333333),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1),
+"update": 1,
+"values": [4, 6, 8, 6, 4]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_lpt1f"]
+_data = {
+&"RESET": SubResource("Animation_p7eoe"),
+&"pa kreisi": SubResource("Animation_uaojm"),
+&"pa labi": SubResource("Animation_arllu")
+}
+
+[node name="Varde" type="CharacterBody2D" unique_id=610072532]
+script = ExtResource("1_i5gqn")
+
+[node name="Icon" type="Sprite2D" parent="." unique_id=965223544]
+position = Vector2(104, 116)
+scale = Vector2(4, 2.504)
+texture = ExtResource("2_2o4oj")
+hframes = 4
+vframes = 4
+frame = 5
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=2053769409]
+position = Vector2(104, 116)
+shape = SubResource("RectangleShape2D_3pxim")
+
+[node name="AnimationTree" type="AnimationTree" parent="." unique_id=1828574692]
+root_node = NodePath("../Icon")
+libraries/ = SubResource("AnimationLibrary_lpt1f")

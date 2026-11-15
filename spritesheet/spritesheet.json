@@ -1,0 +1,595 @@
+{
+  "frames": {
+	"New Piskel-20.png": {
+	  "frame": {
+		"x": 1,
+		"y": 1,
+		"w": 32,
+		"h": 32
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 32,
+		"h": 32
+	  },
+	  "sourceSize": {
+		"w": 32,
+		"h": 32
+	  }
+	},
+	"New Piskel-21.png": {
+	  "frame": {
+		"x": 34,
+		"y": 1,
+		"w": 32,
+		"h": 32
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 32,
+		"h": 32
+	  },
+	  "sourceSize": {
+		"w": 32,
+		"h": 32
+	  }
+	},
+	"New Piskel-22.png": {
+	  "frame": {
+		"x": 67,
+		"y": 1,
+		"w": 32,
+		"h": 32
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 32,
+		"h": 32
+	  },
+	  "sourceSize": {
+		"w": 32,
+		"h": 32
+	  }
+	},
+	"New Piskel-23.png": {
+	  "frame": {
+		"x": 100,
+		"y": 1,
+		"w": 32,
+		"h": 32
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 32,
+		"h": 32
+	  },
+	  "sourceSize": {
+		"w": 32,
+		"h": 32
+	  }
+	},
+	"New Piskel-24.png": {
+	  "frame": {
+		"x": 133,
+		"y": 1,
+		"w": 32,
+		"h": 32
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 32,
+		"h": 32
+	  },
+	  "sourceSize": {
+		"w": 32,
+		"h": 32
+	  }
+	},
+	"New Piskel-25.png": {
+	  "frame": {
+		"x": 166,
+		"y": 1,
+		"w": 32,
+		"h": 32
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 32,
+		"h": 32
+	  },
+	  "sourceSize": {
+		"w": 32,
+		"h": 32
+	  }
+	},
+	"New Piskel-26.png": {
+	  "frame": {
+		"x": 1,
+		"y": 34,
+		"w": 32,
+		"h": 32
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 32,
+		"h": 32
+	  },
+	  "sourceSize": {
+		"w": 32,
+		"h": 32
+	  }
+	},
+	"New Piskel-1.png": {
+	  "frame": {
+		"x": 34,
+		"y": 34,
+		"w": 32,
+		"h": 32
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 32,
+		"h": 32
+	  },
+	  "sourceSize": {
+		"w": 32,
+		"h": 32
+	  }
+	},
+	"New Piskel-2.png": {
+	  "frame": {
+		"x": 67,
+		"y": 34,
+		"w": 32,
+		"h": 32
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 32,
+		"h": 32
+	  },
+	  "sourceSize": {
+		"w": 32,
+		"h": 32
+	  }
+	},
+	"New Piskel-3.png(1)": {
+	  "frame": {
+		"x": 100,
+		"y": 34,
+		"w": 32,
+		"h": 32
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 32,
+		"h": 32
+	  },
+	  "sourceSize": {
+		"w": 32,
+		"h": 32
+	  }
+	},
+	"New Piskel-3.png": {
+	  "frame": {
+		"x": 133,
+		"y": 34,
+		"w": 32,
+		"h": 32
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 32,
+		"h": 32
+	  },
+	  "sourceSize": {
+		"w": 32,
+		"h": 32
+	  }
+	},
+	"New Piskel-4.png(1)": {
+	  "frame": {
+		"x": 166,
+		"y": 34,
+		"w": 32,
+		"h": 32
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 32,
+		"h": 32
+	  },
+	  "sourceSize": {
+		"w": 32,
+		"h": 32
+	  }
+	},
+	"New Piskel-4.png": {
+	  "frame": {
+		"x": 1,
+		"y": 67,
+		"w": 32,
+		"h": 32
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 32,
+		"h": 32
+	  },
+	  "sourceSize": {
+		"w": 32,
+		"h": 32
+	  }
+	},
+	"New Piskel-5.png": {
+	  "frame": {
+		"x": 34,
+		"y": 67,
+		"w": 32,
+		"h": 32
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 32,
+		"h": 32
+	  },
+	  "sourceSize": {
+		"w": 32,
+		"h": 32
+	  }
+	},
+	"New Piskel-6.png": {
+	  "frame": {
+		"x": 67,
+		"y": 67,
+		"w": 32,
+		"h": 32
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 32,
+		"h": 32
+	  },
+	  "sourceSize": {
+		"w": 32,
+		"h": 32
+	  }
+	},
+	"New Piskel-7.png": {
+	  "frame": {
+		"x": 100,
+		"y": 67,
+		"w": 32,
+		"h": 32
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 32,
+		"h": 32
+	  },
+	  "sourceSize": {
+		"w": 32,
+		"h": 32
+	  }
+	},
+	"New Piskel-8.png": {
+	  "frame": {
+		"x": 133,
+		"y": 67,
+		"w": 32,
+		"h": 32
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 32,
+		"h": 32
+	  },
+	  "sourceSize": {
+		"w": 32,
+		"h": 32
+	  }
+	},
+	"New Piskel-9.png": {
+	  "frame": {
+		"x": 166,
+		"y": 67,
+		"w": 32,
+		"h": 32
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 32,
+		"h": 32
+	  },
+	  "sourceSize": {
+		"w": 32,
+		"h": 32
+	  }
+	},
+	"New Piskel-10.png": {
+	  "frame": {
+		"x": 1,
+		"y": 100,
+		"w": 32,
+		"h": 32
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 32,
+		"h": 32
+	  },
+	  "sourceSize": {
+		"w": 32,
+		"h": 32
+	  }
+	},
+	"New Piskel-11.png": {
+	  "frame": {
+		"x": 34,
+		"y": 100,
+		"w": 32,
+		"h": 32
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 32,
+		"h": 32
+	  },
+	  "sourceSize": {
+		"w": 32,
+		"h": 32
+	  }
+	},
+	"New Piskel-12.png": {
+	  "frame": {
+		"x": 67,
+		"y": 100,
+		"w": 32,
+		"h": 32
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 32,
+		"h": 32
+	  },
+	  "sourceSize": {
+		"w": 32,
+		"h": 32
+	  }
+	},
+	"New Piskel-13.png(1)": {
+	  "frame": {
+		"x": 100,
+		"y": 100,
+		"w": 32,
+		"h": 32
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 32,
+		"h": 32
+	  },
+	  "sourceSize": {
+		"w": 32,
+		"h": 32
+	  }
+	},
+	"New Piskel-13.png": {
+	  "frame": {
+		"x": 133,
+		"y": 100,
+		"w": 32,
+		"h": 32
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 32,
+		"h": 32
+	  },
+	  "sourceSize": {
+		"w": 32,
+		"h": 32
+	  }
+	},
+	"New Piskel-14.png": {
+	  "frame": {
+		"x": 166,
+		"y": 100,
+		"w": 32,
+		"h": 32
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 32,
+		"h": 32
+	  },
+	  "sourceSize": {
+		"w": 32,
+		"h": 32
+	  }
+	},
+	"New Piskel-15.png": {
+	  "frame": {
+		"x": 1,
+		"y": 133,
+		"w": 32,
+		"h": 32
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 32,
+		"h": 32
+	  },
+	  "sourceSize": {
+		"w": 32,
+		"h": 32
+	  }
+	},
+	"New Piskel-16.png": {
+	  "frame": {
+		"x": 34,
+		"y": 133,
+		"w": 32,
+		"h": 32
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 32,
+		"h": 32
+	  },
+	  "sourceSize": {
+		"w": 32,
+		"h": 32
+	  }
+	},
+	"New Piskel-17.png": {
+	  "frame": {
+		"x": 67,
+		"y": 133,
+		"w": 32,
+		"h": 32
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 32,
+		"h": 32
+	  },
+	  "sourceSize": {
+		"w": 32,
+		"h": 32
+	  }
+	},
+	"New Piskel-18.png": {
+	  "frame": {
+		"x": 100,
+		"y": 133,
+		"w": 32,
+		"h": 32
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 32,
+		"h": 32
+	  },
+	  "sourceSize": {
+		"w": 32,
+		"h": 32
+	  }
+	},
+	"New Piskel-19.png": {
+	  "frame": {
+		"x": 133,
+		"y": 133,
+		"w": 32,
+		"h": 32
+	  },
+	  "rotated": false,
+	  "trimmed": false,
+	  "spriteSourceSize": {
+		"x": 0,
+		"y": 0,
+		"w": 32,
+		"h": 32
+	  },
+	  "sourceSize": {
+		"w": 32,
+		"h": 32
+	  }
+	}
+  },
+  "meta": {
+	"app": "Sprite Sheet Maker",
+	"version": "1.0",
+	"image": "spritesheet.png",
+	"format": "RGBA8888",
+	"size": {
+	  "w": 199,
+	  "h": 166
+	},
+	"scale": "1"
+  }
+}
